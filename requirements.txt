@@ -1,0 +1,11 @@
+# Core Django Framework
+Django==5.2.8
+
+# Django REST Framework for API building
+djangorestframework==3.16.1
+
+# OpenAI Python library
+openai==2.6.1
+
+# Environment variable management
+python-dotenv==1.0.1
